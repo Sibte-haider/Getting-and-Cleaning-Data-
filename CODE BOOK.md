@@ -1,7 +1,3 @@
----
-title: "CODE BOOK"
----
-
 ## Modifications
 The run_analysis.R script performs the data preparation and then followed by steps required as described in the course project’s definition.
 
