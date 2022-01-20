@@ -1,7 +1,3 @@
----
-title: "README"
----
-
 ## Files  
    * _CodeBook.md_ a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
    
